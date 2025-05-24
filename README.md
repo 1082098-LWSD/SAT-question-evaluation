@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📖 Introduction
-A benchmark dataset for evaluating LLMs on SAT-style questions. Contains 90 curated questions with model performance metrics.
+A benchmark dataset for evaluating LLMs on SAT-style questions. Contains 90 curated questions with model performance metrics obtained from the College Board SAT Question Bank: satsuitequestionbank.collegeboard.org.
 
 ## 🗂️ Dataset Structure
 ```csv
