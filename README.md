@@ -1,4 +1,4 @@
-# SAT Reading & Writing LLM Evaluation Dataset
+# SAT Reading & Writing LLM Evaluation Dataset and Code
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -11,6 +11,8 @@ A benchmark dataset for evaluating LLMs on SAT-style questions. Contains 90 cura
 Question_ID,Difficulty,Skill_Type,Correct_Answer
 eb95235b,hard,boundaries,B
 
+## 🗂️ Google Colab Notebook
+# Example notebook utilized for study
 # Evaluation code example
 from langchain.evaluation import load_evaluator
 
